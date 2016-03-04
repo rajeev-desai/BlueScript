@@ -1,0 +1,18 @@
+var a;
+var c=1;
+var d=0;
+var i=1;
+put("Enter a Number");
+a=get();
+a times;
+c=a % i;
+? c==0 then
+d++;
+end ?
+i++;
+end loop
+? d==2 then
+put("Prime");
+! d~=2 then
+put("consonant");
+end ?

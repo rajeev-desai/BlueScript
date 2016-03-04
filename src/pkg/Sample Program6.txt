@@ -1,0 +1,18 @@
+var a;
+var b=5;
+var c=2;
+var d=1;
+var e=1;
+var f=1;
+var g=1;
+2 times;
+["Enter Basic Pay:"];
+a=get();
+e=a*b;
+f=a*c;
+g=a*d;
+a=a+e;
+a=a+f;
+a=a-g;
+["The Final pay is:"+a];
+end loop

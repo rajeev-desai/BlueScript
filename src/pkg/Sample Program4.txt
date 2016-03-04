@@ -1,0 +1,9 @@
+var a[5]={1,2,3,4,5};
+var c=0;
+var d=0;
+var e=4;
+5 times
+d=d+a[c];
+c++;
+end loop
+put("Number : "+d);

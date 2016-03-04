@@ -1,0 +1,10 @@
+var a;
+var c=1;
+var i=1;
+["Enter a number"];
+a=get();
+a times;
+c=c*i;
+i++;
+end loop
+["Factorial of the number is:"+c];

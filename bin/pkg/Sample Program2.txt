@@ -1,0 +1,13 @@
+var a;
+var b;
+["Enter value of a:"];
+a=get();
+["Enter value of b:"];
+b=get();
+? a<b then
+["b is greater than a"];
+["b="+b];
+!? a>b then
+["a is greater than b"];
+["a="+a];
+end ?
